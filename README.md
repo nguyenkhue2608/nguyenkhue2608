@@ -1,4 +1,4 @@
-[![Iot-cover-image](https://gfycat.com/ifr/FrailWindingGilamonster)
+[![Iot-cover-image](https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif)
 ](https://github.com/nguyenkhue2608)
 <h1 align="center">Hi 👋, I'm Khuê Nguyễn Creator</h1>
 <h3 align="center">I'm a bloger and freelancer developing IoT products</h3>

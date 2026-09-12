@@ -6,7 +6,7 @@
 <h3 align="center">Automotive Embedded Software Developer | Tech Blogger | IoT Freelancer</h3>
 
 <p align="center">
-  <img src="https://komarev.com" alt="nguyenkhue2608" />
+  <img src="https://komarev.com" alt="Profile Views Counter" />
 </p>
 
 ---
@@ -69,17 +69,15 @@ I am an **Embedded Software Engineer** specializing in the **Automotive industry
 ### 📊 GitHub Metrics & Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://vercel.app" alt="nguyenkhue2608 trophies" />
-  </a>
+  <img src="https://vercel.app" alt="Khuenguyencreator GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Khuenguyencreator Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Khuenguyencreator Trophies" />
 </p>
 
 ---

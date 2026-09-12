@@ -1,32 +1,89 @@
-[![Iot-cover-image](https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif)
-](https://github.com/nguyenkhue2608)
-<h1 align="center">Hi 👋, I'm Khuê Nguyễn Creator</h1>
-<h3 align="center">I'm a bloger and freelancer developing IoT products</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenkhue2608&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenkhue2608" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenkhue2608" alt="nguyenkhue2608" /></a> </p>
-
-- 🌱 I’m currently learning **C, C++, Altium, C#, IOT Matter, flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenkhue2608](https://github.com/nguyenkhue2608)
-
-- 📝 I regularly write articles on [https://khuenguyencreator.com/](https://khuenguyencreator.com/)
-
-- 💬 Ask me about **STM32, ESP32, IOT Platform, PCB layout**
-
-- 📫 How to reach me **khuenguyencreator@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nguyenkhue2608/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguyenkhue2608/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/khuenguyencreator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khuenguyencreator/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct8cfnpoahrqxwmvkk-lfvg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif" alt="Iot-cover-image" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Khuê Nguyễn Creator</h1>
+<h3 align="center">Automotive Embedded Software Developer | Tech Blogger | IoT Freelancer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenkhue2608&show_icons=true&locale=en&layout=compact" alt="nguyenkhue2608" /></p>
+<p align="center">
+  <img src="https://komarev.com" alt="nguyenkhue2608" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenkhue2608&show_icons=true&locale=en" alt="nguyenkhue2608" /></p>
+---
+
+### 🏢 Official Code Repository for My Blog
+> 📢 **Important Update:** To serve readers better, all source code examples, course materials, and hardware tutorials from my blog have been centralized under a dedicated GitHub Organization. 
+> 👉 **Explore the official code base here: [@khuenguyencreator-code](https://github.com)**
+
+---
+
+### 🚀 About Me
+I am an **Embedded Software Engineer** specializing in the **Automotive industry**, focus on **Hardware Abstraction Layer (HAL)** development and **Board Support Package (BSP)** customization. Alongside my professional career, I run a technology blog to share knowledge and support the local embedded developer community.
+
+- 🛠️ **Current Focus:** Automotive firmware architectures, MCAL/HAL layer isolation, BSP development for heterogeneous SoCs, and real-time execution.
+- 🌱 **Learning & Enhancing:** Automotive Ethernet, AUTOSAR basics, Functional Safety (ISO 26262), and advanced Linux Kernel Driver development.
+- 📝 **Technical Blog:** [khuenguyencreator.com](https://khuenguyencreator.com/) — Sharing tutorials on MCUs, Embedded Linux, and Automotive Systems.
+- 💬 **Ask me about:** STM32 MCU peripherals, ESP32 IoT platforms, HAL optimization, and complex PCB Layouts.
+- 📫 **Contact:** khuenguyencreator@gmail.com
+
+---
+
+### 🛠️ Core Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Programming</b></td>
+    <td align="center" width="25%"><b>Automotive & Embedded</b></td>
+    <td align="center" width="25%"><b>Operating Systems</b></td>
+    <td align="center" width="25%"><b>Tools & Platforms</b></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      • Embedded C / C++<br>
+      • Python (Scripting)<br>
+      • C# / .NET (Tooling)<br>
+      • Flutter (Mobile Apps)
+    </td>
+    <td align="left" valign="top">
+      • HAL & BSP Dev<br>
+      • STM32 HAL / Low-Layer<br>
+      • ESP-IDF / Arduino<br>
+      • CAN, UART, SPI, I2C
+    </td>
+    <td align="left" valign="top">
+      • FreeRTOS<br>
+      • Embedded Linux<br>
+      • Android System Init
+    </td>
+    <td align="left" valign="top">
+      • Altium Designer<br>
+      • Docker / Git CI<br>
+      • Keil MDK / STM32Cube<br>
+      • VS Code / CMake
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics & Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://vercel.app" alt="nguyenkhue2608 trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/nguyenkhue2608/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/khuenguyencreator/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>

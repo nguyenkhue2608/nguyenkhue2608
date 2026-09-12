@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif" alt="Iot-cover-image" width="100%" />
+  <img src="https://githubusercontent.com" alt="Iot-cover-image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khuê Nguyễn Creator</h1>
@@ -18,11 +18,11 @@
 ---
 
 ### 🚀 About Me
-I am an **Embedded Software Engineer** specializing in the **Automotive industry**, focus on **Hardware Abstraction Layer (HAL)** development and **Board Support Package (BSP)** customization. Alongside my professional career, I run a technology blog to share knowledge and support the local embedded developer community.
+I am an **Embedded Software Engineer** specializing in the **Automotive industry**, focusing on **Hardware Abstraction Layer (HAL)** development and **Board Support Package (BSP)** customization. Alongside my professional career, I run a technology blog to share knowledge and support the local embedded developer community.
 
 - 🛠️ **Current Focus:** Automotive firmware architectures, MCAL/HAL layer isolation, BSP development for heterogeneous SoCs, and real-time execution.
 - 🌱 **Learning & Enhancing:** Automotive Ethernet, AUTOSAR basics, Functional Safety (ISO 26262), and advanced Linux Kernel Driver development.
-- 📝 **Technical Blog:** [khuenguyencreator.com](https://khuenguyencreator.com/) — Sharing tutorials on MCUs, Embedded Linux, and Automotive Systems.
+- 📝 **Technical Blog:** [khuenguyencreator.com](https://khuenguyencreator.com) — Sharing tutorials on MCUs, Embedded Linux, and Automotive Systems.
 - 💬 **Ask me about:** STM32 MCU peripherals, ESP32 IoT platforms, HAL optimization, and complex PCB Layouts.
 - 📫 **Contact:** khuenguyencreator@gmail.com
 
@@ -76,6 +76,9 @@ I am an **Embedded Software Engineer** specializing in the **Automotive industry
 
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
@@ -83,7 +86,7 @@ I am an **Embedded Software Engineer** specializing in the **Automotive industry
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/nguyenkhue2608/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/khuenguyencreator/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://linkedin.com" target="blank"><img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://facebook.com" target="blank"><img src="https://githubusercontent.com" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://youtube.com" target="blank"><img src="https://githubusercontent.com" alt="YouTube" height="30" width="40" /></a>
 </p>

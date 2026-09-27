@@ -24,6 +24,10 @@ jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
+      # The action commits the generated cards from the workspace, so the
+      # repository must be checked out first.
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

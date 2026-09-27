@@ -1,0 +1,32 @@
+name: Profile metrics
+
+# Generates the GitHub stats cards shown in README.md and commits them into
+# this repository, so the README does not depend on third-party image servers
+# (e.g. the public github-readme-stats instance, which is often rate-limited).
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-metrics.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  summary-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
